@@ -52,9 +52,11 @@ Always eager to take on challenges that help me grow as a developer and make a r
 - Dynamic Systems  
 - Graph Algorithms
 
+### ✅ **Completed (Third Semester)**
+
 ---
 
 ### 🔧  Currently working on
 
-- AI vision projects
-- toying with different technologies 
+- Fullstack, software apps, 
+- toying with different technologies such as reporting tools 
