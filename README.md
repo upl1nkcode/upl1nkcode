@@ -53,7 +53,11 @@ Always eager to take on challenges that help me grow as a developer and make a r
 - Graph Algorithms
 
 ### ✅ **Completed (Third Semester)**
-
+-	Advanced Programming Methods	
+-	Computer Networks	
+-	Databases	
+-	Logical and Functional Programming	
+-	Probabilities and Statistics
 ---
 
 ### 🔧  Currently working on
