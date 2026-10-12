@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I’m a **second-year Computer Science student** with a strong passion for coding and problem-solving.  
+I’m a **third/final-year Computer Science student** with a strong passion for coding and problem-solving.  
 I have hands-on experience with **Java**, **Python**, **C/C++/C#**, **SQL**, **HTML**, **CSS**, and **NASM**.  
 
 I enjoy learning new technologies, collaborating on innovative projects, and contributing to open-source communities.  
