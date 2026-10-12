@@ -58,9 +58,11 @@ Always eager to take on challenges that help me grow as a developer and make a r
 -	Databases	
 -	Logical and Functional Programming	
 -	Probabilities and Statistics
+
+### ✅ **Completed (Forth Semester)**
+
 ---
 
 ### 🔧  Currently working on
 
-- Fullstack, software apps, 
-- toying with different technologies such as reporting tools 
+- Fullstack, mobile and web scraping solutions + agentic research
